@@ -1,3 +1,5 @@
+Hugo Stawiarski
+
 1) Conserver un historique - Revenir en arrière en cas de problème -Travailler à plusieurs - Suivre les modifications de chaque fichier
 
 2) Vrai
