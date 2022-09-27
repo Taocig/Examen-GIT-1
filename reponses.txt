@@ -16,5 +16,5 @@
 
 9) git revert crée un nouveau commit alors que git reset, non
 
-10) git blame
+10) git blame 
 
